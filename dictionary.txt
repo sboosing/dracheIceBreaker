@@ -19,7 +19,7 @@ Audi -  listen
 Schloss -  lock
 Munich -  capital and largest city in Bavaria
 wet- tbewerbsfaehig competition law
-Mehlhase 
+Mehlhase - Flour Bunny
 Gebaeck - pastries
 Baeckerei - bakery or baker
 Hund - dog 
