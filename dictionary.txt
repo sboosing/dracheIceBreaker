@@ -9,7 +9,7 @@ Gauss -  unit of magnetic field strength
 Klimaanlage -  air conditioner
 Rammstein -  ramming stone
 Musik -  music
-Porsche -  Pig 
+Porsche -  Porsche
 BMW -  BMW
 Biergarten -  Beer garden 
 Ratskeller -  beer hall or restaurant in a basement
